@@ -1,7 +1,6 @@
 ﻿using System.Data.Entity;
 using System.Threading.Tasks;
 using JustMockTest;
-using TimeSketch.Core.Entity.Interface;
 
 namespace EntityFrameworkMock
 {

@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace TimeSketch.Core.Entity.Interface
+namespace EntityFrameworkMock
 {
     public interface IEntity
     {

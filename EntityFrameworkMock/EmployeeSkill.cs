@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using TimeSketch.Core.Entity.Interface;
+using EntityFrameworkMock;
 
 namespace JustMockTest
 {
